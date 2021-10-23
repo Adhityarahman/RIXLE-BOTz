@@ -28,10 +28,10 @@ Edit the required value in [`config.js`](https://github.com/Rizxyu/RIXLE-BOT/blo
 ```js
 userbot = {
  owner: [
-  "6289534297851p", 
-  "436504463151666",
-  "6282328303332",
-  "62823283033323"
+  "62895342978510", 
+  "43xxxxxxxxxxxx",
+  "628985334600",
+  "6285252703209"
   ],
   MONGO_URI: "mongodb+srv://zanDb:veth0581@cluster0.eyx0e.mongodb.net/<mydb>?retryWrites=true&w=majority",
    mess: {
